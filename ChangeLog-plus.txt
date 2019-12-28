@@ -16,5 +16,5 @@
 
 
 
-","url":"https://plus-mods.com/whatsapp/"
+","url":"http://plus-mods.com/"
 }
